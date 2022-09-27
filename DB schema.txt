@@ -1,0 +1,37 @@
+=====================User=================
+id
+first name
+last name
+email
+password
+date of birth
+city
+country
+mobile no
+status
+isVerify
+isCreated
+isUpdated
+Prof-image
+address
+nic
+zipcode
+religion
+
+
+==============Query=======================
+user_id
+name
+s/o / d/o / w/o
+age
+city
+country
+color
+images
+isVerify
+mobile
+email
+address
+nic
+zipcode
+religion 
